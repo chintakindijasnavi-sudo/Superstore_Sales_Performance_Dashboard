@@ -75,4 +75,4 @@ This dashboard provides a clear overview of business performance and helps in id
 
 Author 
 Chintakindi Jasnavi Email: chintakindijasnavi@gmail.com 
-GitHub:https://github.com/chintakindijasnavi-sudo/Superstore_Sales_Performance_Dashboard/edit/main/README.md 
+GitHub : https://github.com/chintakindijasnavi-sudo/Superstore_Sales_Performance_Dashboard/edit/main/README.md 
