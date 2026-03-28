@@ -72,3 +72,7 @@ Tableau
 
 Conclusion: 
 This dashboard provides a clear overview of business performance and helps in identifying key areas such as top products, high-performing regions, and customer behavior, making it useful for data-driven decision-making.
+
+Author 
+Chintakindi Jasnavi Email: chintakindijasnavi@gmail.com 
+GitHub:https://github.com/chintakindijasnavi-sudo/Superstore_Sales_Performance_Dashboard/edit/main/README.md 
